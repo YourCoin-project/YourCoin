@@ -1,9 +1,9 @@
-Building FooCoin
+Building YourCoin
 
-See doc/readme-qt.rst for instructions on building foocoin-qt,
+See doc/readme-qt.rst for instructions on building YourCoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of FooCoin.
+implementation of YourCoin.
 
-See doc/build-*.txt for instructions on building foocoin,
+See doc/build-*.txt for instructions on building YourCoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of FooCoin.
+implementation of YourCoin.
